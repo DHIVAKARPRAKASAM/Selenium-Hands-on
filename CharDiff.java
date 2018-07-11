@@ -9,6 +9,10 @@ public static void main(String[] args) {
 	{
 		for(int j=0;j<=d.length-1;j++)
 		{
+		if(c[i]==d[j])
+			{
+				System.out.print(c[i]);
+			}
 			
 		}
 		
